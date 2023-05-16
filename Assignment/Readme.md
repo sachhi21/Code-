@@ -7,7 +7,6 @@
 		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
     
 <hibernate-configuration>
-  
     <session-factory>
       
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
